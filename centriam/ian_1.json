@@ -1,0 +1,508 @@
+[
+  [
+    {
+      "region": "1",
+      "round": "1",
+      "game": "1-1-1",
+      "pick": "UVA",
+      "top": "UVA",
+      "bottom": "UMBC"
+    },
+    {
+      "region": "1",
+      "round": "1",
+      "game": "1-1-2",
+      "pick": "CREIGH",
+      "top": "CREIGH",
+      "bottom": "KSTATE"
+    },
+    {
+      "region": "1",
+      "round": "1",
+      "game": "1-1-3",
+      "pick": "UK",
+      "top": "UK",
+      "bottom": "DAVID"
+    },
+    {
+      "region": "1",
+      "round": "1",
+      "game": "1-1-4",
+      "pick": "ARIZ",
+      "top": "ARIZ",
+      "bottom": "BUFF"
+    },
+    {
+      "region": "1",
+      "round": "1",
+      "game": "1-1-5",
+      "pick": "LOYCHI",
+      "top": "MIAMI",
+      "bottom": "LOYCHI"
+    },
+    {
+      "region": "1",
+      "round": "1",
+      "game": "1-1-6",
+      "pick": "TENN",
+      "top": "TENN",
+      "bottom": "WRIGHT"
+    },
+    {
+      "region": "1",
+      "round": "1",
+      "game": "1-1-7",
+      "pick": "TEXAS",
+      "top": "NEVADA",
+      "bottom": "TEXAS"
+    },
+    {
+      "region": "1",
+      "round": "1",
+      "game": "1-1-8",
+      "pick": "CINCY",
+      "top": "CINCY",
+      "bottom": "GAST"
+    },
+    {
+      "region": "2",
+      "round": "1",
+      "game": "2-1-1",
+      "pick": "XAVIER",
+      "top": "XAVIER",
+      "bottom": "PLAY1"
+    },
+    {
+      "region": "2",
+      "round": "1",
+      "game": "2-1-2",
+      "pick": "FSU",
+      "top": "MIZZOU",
+      "bottom": "FSU"
+    },
+    {
+      "region": "2",
+      "round": "1",
+      "game": "2-1-3",
+      "pick": "OHIOST",
+      "top": "OHIOST",
+      "bottom": "SDAKST"
+    },
+    {
+      "region": "2",
+      "round": "1",
+      "game": "2-1-4",
+      "pick": "GONZAG",
+      "top": "GONZAG",
+      "bottom": "NCGRN"
+    },
+    {
+      "region": "2",
+      "round": "1",
+      "game": "2-1-5",
+      "pick": "HOU",
+      "top": "HOU",
+      "bottom": "SDGST"
+    },
+    {
+      "region": "2",
+      "round": "1",
+      "game": "2-1-6",
+      "pick": "MICH",
+      "top": "MICH",
+      "bottom": "MNTNA"
+    },
+    {
+      "region": "2",
+      "round": "1",
+      "game": "2-1-7",
+      "pick": "TEXAM",
+      "top": "TEXAM",
+      "bottom": "PROV"
+    },
+    {
+      "region": "2",
+      "round": "1",
+      "game": "2-1-8",
+      "pick": "UNC",
+      "top": "UNC",
+      "bottom": "LPSCMB"
+    },
+    {
+      "region": "3",
+      "round": "1",
+      "game": "3-1-1",
+      "pick": "NOVA",
+      "top": "NOVA",
+      "bottom": "PLAY2"
+    },
+    {
+      "region": "3",
+      "round": "1",
+      "game": "3-1-2",
+      "pick": "VATECH",
+      "top": "VATECH",
+      "bottom": "BAMA"
+    },
+    {
+      "region": "3",
+      "round": "1",
+      "game": "3-1-3",
+      "pick": "WVU",
+      "top": "WVU",
+      "bottom": "MURYST"
+    },
+    {
+      "region": "3",
+      "round": "1",
+      "game": "3-1-4",
+      "pick": "WICHST",
+      "top": "WICHST",
+      "bottom": "MRSHL"
+    },
+    {
+      "region": "3",
+      "round": "1",
+      "game": "3-1-5",
+      "pick": "FLA",
+      "top": "FLA",
+      "bottom": "PLAY3"
+    },
+    {
+      "region": "3",
+      "round": "1",
+      "game": "3-1-6",
+      "pick": "TXTECH",
+      "top": "TXTECH",
+      "bottom": "SFA"
+    },
+    {
+      "region": "3",
+      "round": "1",
+      "game": "3-1-7",
+      "pick": "BUTLER",
+      "top": "ARK",
+      "bottom": "BUTLER"
+    },
+    {
+      "region": "3",
+      "round": "1",
+      "game": "3-1-8",
+      "pick": "PURDUE",
+      "top": "PURDUE",
+      "bottom": "CSFULL"
+    },
+    {
+      "region": "4",
+      "round": "1",
+      "game": "4-1-1",
+      "pick": "KANSAS",
+      "top": "KANSAS",
+      "bottom": "PENN"
+    },
+    {
+      "region": "4",
+      "round": "1",
+      "game": "4-1-2",
+      "pick": "SETON",
+      "top": "SETON",
+      "bottom": "NCST"
+    },
+    {
+      "region": "4",
+      "round": "1",
+      "game": "4-1-3",
+      "pick": "NMEXST",
+      "top": "CLEM",
+      "bottom": "NMEXST"
+    },
+    {
+      "region": "4",
+      "round": "1",
+      "game": "4-1-4",
+      "pick": "AUBURN",
+      "top": "AUBURN",
+      "bottom": "CHARLS"
+    },
+    {
+      "region": "4",
+      "round": "1",
+      "game": "4-1-5",
+      "pick": "CUSE",
+      "top": "TCU",
+      "bottom": "PLAY4"
+    },
+    {
+      "region": "4",
+      "round": "1",
+      "game": "4-1-6",
+      "pick": "MICHST",
+      "top": "MICHST",
+      "bottom": "BUCK"
+    },
+    {
+      "region": "4",
+      "round": "1",
+      "game": "4-1-7",
+      "pick": "RI",
+      "top": "RI",
+      "bottom": "OKLA"
+    },
+    {
+      "region": "4",
+      "round": "1",
+      "game": "4-1-8",
+      "pick": "DUKE",
+      "top": "DUKE",
+      "bottom": "IONA"
+    },
+    {
+      "region": "1",
+      "round": "2",
+      "game": "1-2-1",
+      "pick": "UVA",
+      "top": "UVA",
+      "bottom": "CREIGH"
+    },
+    {
+      "region": "1",
+      "round": "2",
+      "game": "1-2-2",
+      "pick": "UK",
+      "top": "UK",
+      "bottom": "ARIZ"
+    },
+    {
+      "region": "1",
+      "round": "2",
+      "game": "1-2-3",
+      "pick": "TENN",
+      "top": "LOYCHI",
+      "bottom": "TENN"
+    },
+    {
+      "region": "1",
+      "round": "2",
+      "game": "1-2-4",
+      "pick": "CINCY",
+      "top": "TEXAS",
+      "bottom": "CINCY"
+    },
+    {
+      "region": "2",
+      "round": "2",
+      "game": "2-2-1",
+      "pick": "FSU",
+      "top": "XAVIER",
+      "bottom": "FSU"
+    },
+    {
+      "region": "2",
+      "round": "2",
+      "game": "2-2-2",
+      "pick": "GONZAG",
+      "top": "OHIOST",
+      "bottom": "GONZAG"
+    },
+    {
+      "region": "2",
+      "round": "2",
+      "game": "2-2-3",
+      "pick": "HOU",
+      "top": "HOU",
+      "bottom": "MICH"
+    },
+    {
+      "region": "2",
+      "round": "2",
+      "game": "2-2-4",
+      "pick": "UNC",
+      "top": "TEXAM",
+      "bottom": "UNC"
+    },
+    {
+      "region": "3",
+      "round": "2",
+      "game": "3-2-1",
+      "pick": "NOVA",
+      "top": "NOVA",
+      "bottom": "VATECH"
+    },
+    {
+      "region": "3",
+      "round": "2",
+      "game": "3-2-2",
+      "pick": "WICHST",
+      "top": "WVU",
+      "bottom": "WICHST"
+    },
+    {
+      "region": "3",
+      "round": "2",
+      "game": "3-2-3",
+      "pick": "TXTECH",
+      "top": "FLA",
+      "bottom": "TXTECH"
+    },
+    {
+      "region": "3",
+      "round": "2",
+      "game": "3-2-4",
+      "pick": "PURDUE",
+      "top": "BUTLER",
+      "bottom": "PURDUE"
+    },
+    {
+      "region": "4",
+      "round": "2",
+      "game": "4-2-1",
+      "pick": "KANSAS",
+      "top": "KANSAS",
+      "bottom": "SETON"
+    },
+    {
+      "region": "4",
+      "round": "2",
+      "game": "4-2-2",
+      "pick": "NMEXST",
+      "top": "NMEXST",
+      "bottom": "AUBURN"
+    },
+    {
+      "region": "4",
+      "round": "2",
+      "game": "4-2-3",
+      "pick": "MICHST",
+      "top": "PLAY4",
+      "bottom": "MICHST"
+    },
+    {
+      "region": "4",
+      "round": "2",
+      "game": "4-2-4",
+      "pick": "DUKE",
+      "top": "RI",
+      "bottom": "DUKE"
+    },
+    {
+      "region": "1",
+      "round": "3",
+      "game": "1-3-1",
+      "pick": "UVA",
+      "top": "UVA",
+      "bottom": "UK"
+    },
+    {
+      "region": "1",
+      "round": "3",
+      "game": "1-3-2",
+      "pick": "CINCY",
+      "top": "TENN",
+      "bottom": "CINCY"
+    },
+    {
+      "region": "2",
+      "round": "3",
+      "game": "2-3-1",
+      "pick": "GONZAG",
+      "top": "FSU",
+      "bottom": "GONZAG"
+    },
+    {
+      "region": "2",
+      "round": "3",
+      "game": "2-3-2",
+      "pick": "UNC",
+      "top": "HOU",
+      "bottom": "UNC"
+    },
+    {
+      "region": "3",
+      "round": "3",
+      "game": "3-3-1",
+      "pick": "NOVA",
+      "top": "NOVA",
+      "bottom": "WICHST"
+    },
+    {
+      "region": "3",
+      "round": "3",
+      "game": "3-3-2",
+      "pick": "PURDUE",
+      "top": "TXTECH",
+      "bottom": "PURDUE"
+    },
+    {
+      "region": "4",
+      "round": "3",
+      "game": "4-3-1",
+      "pick": "KANSAS",
+      "top": "KANSAS",
+      "bottom": "NMEXST"
+    },
+    {
+      "region": "4",
+      "round": "3",
+      "game": "4-3-2",
+      "pick": "DUKE",
+      "top": "MICHST",
+      "bottom": "DUKE"
+    },
+    {
+      "region": "1",
+      "round": "4",
+      "game": "1-4-1",
+      "pick": "CINCY",
+      "top": "UVA",
+      "bottom": "CINCY"
+    },
+    {
+      "region": "2",
+      "round": "4",
+      "game": "2-4-1",
+      "pick": "GONZAG",
+      "top": "GONZAG",
+      "bottom": "UNC"
+    },
+    {
+      "region": "3",
+      "round": "4",
+      "game": "3-4-1",
+      "pick": "NOVA",
+      "top": "NOVA",
+      "bottom": "PURDUE"
+    },
+    {
+      "region": "4",
+      "round": "4",
+      "game": "4-4-1",
+      "pick": "KANSAS",
+      "top": "KANSAS",
+      "bottom": "DUKE"
+    },
+    {
+      "region": "5",
+      "round": "5",
+      "game": "5-5-1",
+      "pick": "CINCY",
+      "top": "CINCY",
+      "bottom": "GONZAG"
+    },
+    {
+      "region": "5",
+      "round": "5",
+      "game": "5-5-2",
+      "pick": "NOVA",
+      "top": "NOVA",
+      "bottom": "KANSAS"
+    },
+    {
+      "region": "5",
+      "round": "6",
+      "game": "5-6-1",
+      "pick": "NOVA",
+      "top": "CINCY",
+      "bottom": "NOVA"
+    }
+  ]  
+]

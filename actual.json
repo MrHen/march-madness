@@ -1,0 +1,164 @@
+{
+    "games": [
+        {
+            "winner": "UMBC",
+            "loser": "UVA",
+            "round": 0
+        },
+        {
+            "winner": "KAN ST",
+            "loser": "CREIGH",
+            "round": 0
+        },
+        {
+            "winner": "UK",
+            "loser": "DAVID",
+            "round": 0
+        },
+        {
+            "winner": "BUFF",
+            "loser": "ARIZ",
+            "round": 0
+        },
+        {
+            "winner": "LOYCHI",
+            "loser": "MIAMI",
+            "round": 0
+        },
+        {
+            "winner": "TENN",
+            "loser": "WRIGHT",
+            "round": 0
+        },
+        {
+            "winner": "NEVADA",
+            "loser": "TEXAS",
+            "round": 0
+        },
+        {
+            "winner": "CINCY",
+            "loser": "GA ST",
+            "round": 0
+        },
+        {
+            "winner": "XAVIER",
+            "loser": "TX SOU",
+            "round": 0
+        },
+        {
+            "winner": "FSU",
+            "loser": "MIZZOU",
+            "round": 0
+        },
+        {
+            "winner": "OHIOST",
+            "loser": "SDAKST",
+            "round": 0
+        },
+        {
+            "winner": "GONZ",
+            "loser": "UNC G",
+            "round": 0
+        },
+        {
+            "winner": "HOU",
+            "loser": "SDSU",
+            "round": 0
+        },
+        {
+            "winner": "MICH",
+            "loser": "MONT",
+            "round": 0
+        },
+        {
+            "winner": "TX A&M",
+            "loser": "PROV",
+            "round": 0
+        },
+        {
+            "winner": "UNC",
+            "loser": "LIPSCO",
+            "round": 0
+        },
+        {
+            "winner": "NOVA",
+            "loser": "RADFRD",
+            "round": 0
+        },
+        {
+            "winner": "ALA",
+            "loser": "VATECH",
+            "round": 0
+        },
+        {
+            "winner": "WVU",
+            "loser": "MURRAY",
+            "round": 0
+        },
+        {
+            "winner": "MARSH",
+            "loser": "WICHST",
+            "round": 0
+        },
+        {
+            "winner": "FLA",
+            "loser": "STBONA",
+            "round": 0
+        },
+        {
+            "winner": "TXTECH",
+            "loser": "SFA",
+            "round": 0
+        },
+        {
+            "winner": "BUTLER",
+            "loser": "ARK",
+            "round": 0
+        },
+        {
+            "winner": "PURDUE",
+            "loser": "CSFULL",
+            "round": 0
+        },
+        {
+            "winner": "KANSAS",
+            "loser": "PENN",
+            "round": 0
+        },
+        {
+            "winner": "SETON",
+            "loser": "NC ST",
+            "round": 0
+        },
+        {
+            "winner": "CLEM",
+            "loser": "NM ST",
+            "round": 0
+        },
+        {
+            "winner": "AUBURN",
+            "loser": "C OF C",
+            "round": 0
+        },
+        {
+            "winner": "SYR",
+            "loser": "TCU",
+            "round": 0
+        },
+        {
+            "winner": "MICHST",
+            "loser": "BUCKNL",
+            "round": 0
+        },
+        {
+            "winner": "URI",
+            "loser": "OKLA",
+            "round": 0
+        },
+        {
+            "winner": "DUKE",
+            "loser": "IONA",
+            "round": 0
+        }
+    ]
+}

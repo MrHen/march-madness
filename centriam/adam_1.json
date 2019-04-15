@@ -1,0 +1,317 @@
+[
+  {
+    "key": "UMBC__UVA",
+    "winner": "UMBC",
+    "round": 0
+  },
+  {
+    "key": "CREIGH__KAN ST",
+    "winner": "CREIGH",
+    "round": 0
+  },
+  {
+    "key": "DAVID__UK",
+    "winner": "DAVID",
+    "round": 0
+  },
+  {
+    "key": "BUFF__ARIZ",
+    "winner": "BUFF",
+    "round": 0
+  },
+  {
+    "key": "LOYCHI__MIAMI",
+    "winner": "LOYCHI",
+    "round": 0
+  },
+  {
+    "key": "TENN__WRIGHT",
+    "winner": "TENN",
+    "round": 0
+  },
+  {
+    "key": "NEVADA__TEXAS",
+    "winner": "NEVADA",
+    "round": 0
+  },
+  {
+    "key": "CINCY__GA ST",
+    "winner": "CINCY",
+    "round": 0
+  },
+  {
+    "key": "XAVIER__TX SOU",
+    "winner": "XAVIER",
+    "round": 0
+  },
+  {
+    "key": "FSU__MIZZOU",
+    "winner": "FSU",
+    "round": 0
+  },
+  {
+    "key": "OHIOST__SDAKST",
+    "winner": "OHIOST",
+    "round": 0
+  },
+  {
+    "key": "UNC G__GONZ",
+    "winner": "UNC G",
+    "round": 0
+  },
+  {
+    "key": "HOU__SDSU",
+    "winner": "HOU",
+    "round": 0
+  },
+  {
+    "key": "MICH__MONT",
+    "winner": "MICH",
+    "round": 0
+  },
+  {
+    "key": "PROV__TX A&M",
+    "winner": "PROV",
+    "round": 0
+  },
+  {
+    "key": "LIPSCO__UNC",
+    "winner": "LIPSCO",
+    "round": 0
+  },
+  {
+    "key": "NOVA__RADFRD",
+    "winner": "NOVA",
+    "round": 0
+  },
+  {
+    "key": "VATECH__ALA",
+    "winner": "VATECH",
+    "round": 0
+  },
+  {
+    "key": "MURRAY__WVU",
+    "winner": "MURRAY",
+    "round": 0
+  },
+  {
+    "key": "WICHST__MARSH",
+    "winner": "WICHST",
+    "round": 0
+  },
+  {
+    "key": "STBONA__FLA",
+    "winner": "STBONA",
+    "round": 0
+  },
+  {
+    "key": "SFA__TXTECH",
+    "winner": "SFA",
+    "round": 0
+  },
+  {
+    "key": "BUTLER__ARK",
+    "winner": "BUTLER",
+    "round": 0
+  },
+  {
+    "key": "PURDUE__CSFULL",
+    "winner": "PURDUE",
+    "round": 0
+  },
+  {
+    "key": "PENN__KANSAS",
+    "winner": "PENN",
+    "round": 0
+  },
+  {
+    "key": "NC ST__SETON",
+    "winner": "NC ST",
+    "round": 0
+  },
+  {
+    "key": "NM ST__CLEM",
+    "winner": "NM ST",
+    "round": 0
+  },
+  {
+    "key": "C OF C__AUBURN",
+    "winner": "C OF C",
+    "round": 0
+  },
+  {
+    "key": "SYR__TCU",
+    "winner": "SYR",
+    "round": 0
+  },
+  {
+    "key": "BUCKNL__MICHST",
+    "winner": "BUCKNL",
+    "round": 0
+  },
+  {
+    "key": "URI__OKLA",
+    "winner": "URI",
+    "round": 0
+  },
+  {
+    "key": "DUKE__IONA",
+    "winner": "DUKE",
+    "round": 0
+  },
+  {
+    "key": "CREIGH__UMBC",
+    "winner": "CREIGH",
+    "round": 1
+  },
+  {
+    "key": "BUFF__DAVID",
+    "winner": "BUFF",
+    "round": 1
+  },
+  {
+    "key": "LOYCHI__TENN",
+    "winner": "LOYCHI",
+    "round": 1
+  },
+  {
+    "key": "NEVADA__CINCY",
+    "winner": "NEVADA",
+    "round": 1
+  },
+  {
+    "key": "XAVIER__FSU",
+    "winner": "XAVIER",
+    "round": 1
+  },
+  {
+    "key": "UNC G__OHIOST",
+    "winner": "UNC G",
+    "round": 1
+  },
+  {
+    "key": "HOU__MICH",
+    "winner": "HOU",
+    "round": 1
+  },
+  {
+    "key": "PROV__LIPSCO",
+    "winner": "PROV",
+    "round": 1
+  },
+  {
+    "key": "NOVA__VATECH",
+    "winner": "NOVA",
+    "round": 1
+  },
+  {
+    "key": "MURRAY__WICHST",
+    "winner": "MURRAY",
+    "round": 1
+  },
+  {
+    "key": "STBONA__SFA",
+    "winner": "STBONA",
+    "round": 1
+  },
+  {
+    "key": "BUTLER__PURDUE",
+    "winner": "BUTLER",
+    "round": 1
+  },
+  {
+    "key": "NC ST__PENN",
+    "winner": "NC ST",
+    "round": 1
+  },
+  {
+    "key": "C OF C__NM ST",
+    "winner": "C OF C",
+    "round": 1
+  },
+  {
+    "key": "SYR__BUCKNL",
+    "winner": "SYR",
+    "round": 1
+  },
+  {
+    "key": "URI__DUKE",
+    "winner": "URI",
+    "round": 1
+  },
+  {
+    "key": "BUFF__CREIGH",
+    "winner": "BUFF",
+    "round": 2
+  },
+  {
+    "key": "NEVADA__LOYCHI",
+    "winner": "NEVADA",
+    "round": 2
+  },
+  {
+    "key": "UNC G__XAVIER",
+    "winner": "UNC G",
+    "round": 2
+  },
+  {
+    "key": "HOU__PROV",
+    "winner": "HOU",
+    "round": 2
+  },
+  {
+    "key": "MURRAY__NOVA",
+    "winner": "MURRAY",
+    "round": 2
+  },
+  {
+    "key": "BUTLER__STBONA",
+    "winner": "BUTLER",
+    "round": 2
+  },
+  {
+    "key": "NC ST__C OF C",
+    "winner": "NC ST",
+    "round": 2
+  },
+  {
+    "key": "URI__SYR",
+    "winner": "URI",
+    "round": 2
+  },
+  {
+    "key": "NEVADA__BUFF",
+    "winner": "NEVADA",
+    "round": 3
+  },
+  {
+    "key": "HOU__UNC G",
+    "winner": "HOU",
+    "round": 3
+  },
+  {
+    "key": "MURRAY__BUTLER",
+    "winner": "MURRAY",
+    "round": 3
+  },
+  {
+    "key": "NC ST__URI",
+    "winner": "NC ST",
+    "round": 3
+  },
+  {
+    "key": "HOU__NEVADA",
+    "winner": "HOU",
+    "round": 4
+  },
+  {
+    "key": "MURRAY__NC ST",
+    "winner": "MURRAY",
+    "round": 4
+  },
+  {
+    "key": "MURRAY__HOU",
+    "winner": "MURRAY",
+    "round": 5
+  }
+]

@@ -1,0 +1,381 @@
+[
+    {
+      "key": "UMBC__UVA",
+      "winner": "UMBC",
+      "round": 0,
+      "game": "0"
+    },
+    {
+      "key": "KAN ST__CREIGH",
+      "winner": "KAN ST",
+      "round": 0,
+      "game": "1"
+    },
+    {
+      "key": "DAVID__UK",
+      "winner": "DAVID",
+      "round": 0,
+      "game": "2"
+    },
+    {
+      "key": "BUFF__ARIZ",
+      "winner": "BUFF",
+      "round": 0,
+      "game": "3"
+    },
+    {
+      "key": "MIAMI__LOYCHI",
+      "winner": "MIAMI",
+      "round": 0,
+      "game": "4"
+    },
+    {
+      "key": "TENN__WRIGHT",
+      "winner": "TENN",
+      "round": 0,
+      "game": "5"
+    },
+    {
+      "key": "NEVADA__TEXAS",
+      "winner": "NEVADA",
+      "round": 0,
+      "game": "6"
+    },
+    {
+      "key": "CINCY__GA ST",
+      "winner": "CINCY",
+      "round": 0,
+      "game": "7"
+    },
+    {
+      "key": "XAVIER__TX SOU",
+      "winner": "XAVIER",
+      "round": 0,
+      "game": "8"
+    },
+    {
+      "key": "MIZZOU__FSU",
+      "winner": "MIZZOU",
+      "round": 0,
+      "game": "9"
+    },
+    {
+      "key": "OHIOST__SDAKST",
+      "winner": "OHIOST",
+      "round": 0,
+      "game": "10"
+    },
+    {
+      "key": "UNC G__GONZ",
+      "winner": "UNC G",
+      "round": 0,
+      "game": "11"
+    },
+    {
+      "key": "HOU__SDSU",
+      "winner": "HOU",
+      "round": 0,
+      "game": "12"
+    },
+    {
+      "key": "MICH__MONT",
+      "winner": "MICH",
+      "round": 0,
+      "game": "13"
+    },
+    {
+      "key": "PROV__TX A&M",
+      "winner": "PROV",
+      "round": 0,
+      "game": "14"
+    },
+    {
+      "key": "LIPSCO__UNC",
+      "winner": "LIPSCO",
+      "round": 0,
+      "game": "15"
+    },
+    {
+      "key": "NOVA__RADFRD",
+      "winner": "NOVA",
+      "round": 0,
+      "game": "16"
+    },
+    {
+      "key": "VATECH__ALA",
+      "winner": "VATECH",
+      "round": 0,
+      "game": "17"
+    },
+    {
+      "key": "MURRAY__WVU",
+      "winner": "MURRAY",
+      "round": 0,
+      "game": "18"
+    },
+    {
+      "key": "WICHST__MARSH",
+      "winner": "WICHST",
+      "round": 0,
+      "game": "19"
+    },
+    {
+      "key": "STBONA__FLA",
+      "winner": "STBONA",
+      "round": 0,
+      "game": "20"
+    },
+    {
+      "key": "TXTECH__SFA",
+      "winner": "TXTECH",
+      "round": 0,
+      "game": "21"
+    },
+    {
+      "key": "BUTLER__ARK",
+      "winner": "BUTLER",
+      "round": 0,
+      "game": "22"
+    },
+    {
+      "key": "PURDUE__CSFULL",
+      "winner": "PURDUE",
+      "round": 0,
+      "game": "23"
+    },
+    {
+      "key": "PENN__KANSAS",
+      "winner": "PENN",
+      "round": 0,
+      "game": "24"
+    },
+    {
+      "key": "NC ST__SETON",
+      "winner": "NC ST",
+      "round": 0,
+      "game": "25"
+    },
+    {
+      "key": "CLEM__NM ST",
+      "winner": "CLEM",
+      "round": 0,
+      "game": "26"
+    },
+    {
+      "key": "C OF C__AUBURN",
+      "winner": "C OF C",
+      "round": 0,
+      "game": "27"
+    },
+    {
+      "key": "SYR__TCU",
+      "winner": "SYR",
+      "round": 0,
+      "game": "28"
+    },
+    {
+      "key": "MICHST__BUCKNL",
+      "winner": "MICHST",
+      "round": 0,
+      "game": "29"
+    },
+    {
+      "key": "URI__OKLA",
+      "winner": "URI",
+      "round": 0,
+      "game": "30"
+    },
+    {
+      "key": "DUKE__IONA",
+      "winner": "DUKE",
+      "round": 0,
+      "game": "31"
+    },
+    {
+      "key": "KAN ST__UMBC",
+      "winner": "KAN ST",
+      "round": 1,
+      "game": "0"
+    },
+    {
+      "key": "BUFF__DAVID",
+      "winner": "BUFF",
+      "round": 1,
+      "game": "1"
+    },
+    {
+      "key": "MIAMI__TENN",
+      "winner": "MIAMI",
+      "round": 1,
+      "game": "2"
+    },
+    {
+      "key": "NEVADA__CINCY",
+      "winner": "NEVADA",
+      "round": 1,
+      "game": "3"
+    },
+    {
+      "key": "XAVIER__MIZZOU",
+      "winner": "XAVIER",
+      "round": 1,
+      "game": "4"
+    },
+    {
+      "key": "OHIOST__UNC G",
+      "winner": "OHIOST",
+      "round": 1,
+      "game": "5"
+    },
+    {
+      "key": "HOU__MICH",
+      "winner": "HOU",
+      "round": 1,
+      "game": "6"
+    },
+    {
+      "key": "PROV__LIPSCO",
+      "winner": "PROV",
+      "round": 1,
+      "game": "7"
+    },
+    {
+      "key": "NOVA__VATECH",
+      "winner": "NOVA",
+      "round": 1,
+      "game": "8"
+    },
+    {
+      "key": "MURRAY__WICHST",
+      "winner": "MURRAY",
+      "round": 1,
+      "game": "9"
+    },
+    {
+      "key": "STBONA__TXTECH",
+      "winner": "STBONA",
+      "round": 1,
+      "game": "10"
+    },
+    {
+      "key": "PURDUE__BUTLER",
+      "winner": "PURDUE",
+      "round": 1,
+      "game": "11"
+    },
+    {
+      "key": "NC ST__PENN",
+      "winner": "NC ST",
+      "round": 1,
+      "game": "12"
+    },
+    {
+      "key": "C OF C__CLEM",
+      "winner": "C OF C",
+      "round": 1,
+      "game": "13"
+    },
+    {
+      "key": "MICHST__SYR",
+      "winner": "MICHST",
+      "round": 1,
+      "game": "14"
+    },
+    {
+      "key": "DUKE__URI",
+      "winner": "DUKE",
+      "round": 1,
+      "game": "15"
+    },
+    {
+      "key": "BUFF__KAN ST",
+      "winner": "BUFF",
+      "round": 2,
+      "game": "0"
+    },
+    {
+      "key": "NEVADA__MIAMI",
+      "winner": "NEVADA",
+      "round": 2,
+      "game": "1"
+    },
+    {
+      "key": "XAVIER__OHIOST",
+      "winner": "XAVIER",
+      "round": 2,
+      "game": "2"
+    },
+    {
+      "key": "HOU__PROV",
+      "winner": "HOU",
+      "round": 2,
+      "game": "3"
+    },
+    {
+      "key": "NOVA__MURRAY",
+      "winner": "NOVA",
+      "round": 2,
+      "game": "4"
+    },
+    {
+      "key": "PURDUE__STBONA",
+      "winner": "PURDUE",
+      "round": 2,
+      "game": "5"
+    },
+    {
+      "key": "NC ST__C OF C",
+      "winner": "NC ST",
+      "round": 2,
+      "game": "6"
+    },
+    {
+      "key": "DUKE__MICHST",
+      "winner": "DUKE",
+      "round": 2,
+      "game": "7"
+    },
+    {
+      "key": "NEVADA__BUFF",
+      "winner": "NEVADA",
+      "round": 3,
+      "game": "0"
+    },
+    {
+      "key": "XAVIER__HOU",
+      "winner": "XAVIER",
+      "round": 3,
+      "game": "1"
+    },
+    {
+      "key": "NOVA__PURDUE",
+      "winner": "NOVA",
+      "round": 3,
+      "game": "2"
+    },
+    {
+      "key": "NC ST__DUKE",
+      "winner": "NC ST",
+      "round": 3,
+      "game": "3"
+    },
+    {
+      "key": "XAVIER__NEVADA",
+      "winner": "XAVIER",
+      "round": 4,
+      "game": "0"
+    },
+    {
+      "key": "NOVA__NC ST",
+      "winner": "NOVA",
+      "round": 4,
+      "game": "1"
+    },
+    {
+      "key": "NOVA__XAVIER",
+      "winner": "NOVA",
+      "round": 5,
+      "game": "0"
+    }
+  ]
+  

@@ -1,0 +1,1215 @@
+
+> march-madness@1.0.0 start /Users/adambabcock/Source/march-madness
+> node index.js
+
+{ summaries:
+   [ '2000 - Abilene Christian (Midwest - 15)',
+     '9 - Arizona State (West - 11a)',
+     '2 - Auburn (Midwest - 5)',
+     '239 - Baylor (West - 9)',
+     '2057 - Belmont (East - 11a)',
+     '71 - Bradley (East - 15)',
+     '2084 - Buffalo (West - 6)',
+     '2116 - Central Florida (East - 9)',
+     '2132 - Cincinnati (South - 7)',
+     '2142 - Colgate (South - 15)',
+     '150 - Duke (East - 1)',
+     '161 - Fairleigh Dickinson (West - 16a)',
+     '57 - Florida (West - 10)',
+     '52 - Florida State (West - 4)',
+     '2241 - Gardner-Webb (South - 16)',
+     '2247 - Georgia State (Midwest - 14)',
+     '2250 - Gonzaga (West - 1)',
+     '248 - Houston (Midwest - 3)',
+     '314 - Iona (Midwest - 16)',
+     '2294 - Iowa (South - 10)',
+     '66 - Iowa State (Midwest - 6)',
+     '2305 - Kansas (Midwest - 4)',
+     '2306 - Kansas State (South - 4)',
+     '96 - Kentucky (Midwest - 2)',
+     '2335 - Liberty (East - 12)',
+     '99 - Louisiana State (East - 3)',
+     '97 - Louisville (East - 7)',
+     '269 - Marquette (West - 5)',
+     '120 - Maryland (East - 6)',
+     '130 - Michigan (West - 2)',
+     '127 - Michigan State (East - 2)',
+     '135 - Minnesota (East - 10)',
+     '145 - Mississippi (South - 8)',
+     '344 - Mississippi State (East - 5)',
+     '149 - Montana (West - 15)',
+     '93 - Murray State (West - 12)',
+     '2440 - Nevada (West - 7)',
+     '166 - New Mexico State (Midwest - 12)',
+     '153 - North Carolina (Midwest - 1)',
+     '2428 - North Carolina Central (East - 16a)',
+     '2449 - North Dakota State (East - 16b)',
+     '111 - Northeastern (Midwest - 13)',
+     '94 - Northern Kentucky (West - 14)',
+     '194 - Ohio State (Midwest - 11)',
+     '201 - Oklahoma (South - 9)',
+     '295 - Old Dominion (South - 14)',
+     '2483 - Oregon (South - 12)',
+     '2504 - Prairie View (West - 16b)',
+     '2509 - Purdue (South - 3)',
+     '139 - Saint Louis (East - 13)',
+     "2608 - Saint Mary's (CA) (South - 11)",
+     '2550 - Seton Hall (Midwest - 10)',
+     "2599 - St. John's (NY) (West - 11b)",
+     '183 - Syracuse (West - 8)',
+     '218 - Temple (East - 11b)',
+     '2633 - Tennessee (South - 2)',
+     '2641 - Texas Tech (West - 3)',
+     '300 - UC-Irvine (South - 13)',
+     '328 - Utah State (Midwest - 8)',
+     '261 - Vermont (West - 13)',
+     '222 - Villanova (South - 6)',
+     '258 - Virginia (South - 1)',
+     '2670 - Virginia Commonwealth (East - 8)',
+     '259 - Virginia Tech (East - 4)',
+     '264 - Washington (Midwest - 9)',
+     '275 - Wisconsin (South - 5)',
+     '2747 - Wofford (Midwest - 7)',
+     '43 - Yale (East - 14)' ] }
+Generation 0 started... (200 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 200
+Generation 1 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 2 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 3 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 4 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 5 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 6 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 7 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 8 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 9 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 10 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 11 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 12 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 13 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 14 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 15 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 16 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 17 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 18 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 19 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 20 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 21 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 22 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 23 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 24 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 25 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 26 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 27 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 28 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 29 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 30 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 31 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 32 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 33 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 34 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 35 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 36 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 37 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 38 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 39 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 40 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 41 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 42 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 43 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 44 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 45 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 46 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 47 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 48 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+Generation 49 started... (400 alive)
+	... searching 200
+	... expanding 200
+	... analyzing 1000
+	... scoring
+	... killing 400
+[
+  {
+    "picks": {
+      "Duke": "Winner",
+      "Virginia": "Final 1",
+      "Gonzaga": "West - Four",
+      "North Carolina": "Midwest - Four",
+      "Tennessee": "South - Elite - B",
+      "Michigan": "West - Elite - B",
+      "Michigan State": "East - Elite - B",
+      "Kentucky": "Midwest - Elite - B",
+      "Kansas State": "South - Sweet - DA",
+      "Purdue": "South - Sweet - EB",
+      "Florida State": "West - Sweet - DA",
+      "Texas Tech": "West - Sweet - EB",
+      "Virginia Tech": "East - Sweet - DA",
+      "Louisiana State": "East - Sweet - EB",
+      "Auburn": "Midwest - Sweet - DA",
+      "Houston": "Midwest - Sweet - EB",
+      "Oklahoma": "South - Round 2 - HCA",
+      "Oregon": "South - Round 2 - IDA",
+      "Villanova": "South - Round 2 - KEB",
+      "Cincinnati": "South - Round 2 - MFB",
+      "Syracuse": "West - Round 2 - HCA",
+      "Marquette": "West - Round 2 - IDA",
+      "Buffalo": "West - Round 2 - KEB",
+      "Nevada": "West - Round 2 - MFB",
+      "Central Florida": "East - Round 2 - HCA",
+      "Mississippi State": "East - Round 2 - IDA",
+      "Maryland": "East - Round 2 - KEB",
+      "Louisville": "East - Round 2 - MFB",
+      "Utah State": "Midwest - Round 2 - HCA",
+      "Kansas": "Midwest - Round 2 - JDA",
+      "Iowa State": "Midwest - Round 2 - KEB",
+      "Wofford": "Midwest - Round 2 - MFB",
+      "Gardner-Webb": "South - Seed 16",
+      "Mississippi": "South - Seed 8",
+      "Wisconsin": "South - Seed 5",
+      "UC-Irvine": "South - Seed 13",
+      "Saint Mary's (CA)": "South - Seed 11",
+      "Old Dominion": "South - Seed 14",
+      "Iowa": "South - Seed 10",
+      "Colgate": "South - Seed 15",
+      "Fairleigh Dickinson": "West - Seed 16",
+      "Baylor": "West - Seed 9",
+      "Murray State": "West - Seed 12",
+      "Vermont": "West - Seed 13",
+      "Arizona State": "West - Seed 11",
+      "Northern Kentucky": "West - Seed 14",
+      "Florida": "West - Seed 10",
+      "Montana": "West - Seed 15",
+      "North Dakota State": "East - Seed 16",
+      "Virginia Commonwealth": "East - Seed 8",
+      "Liberty": "East - Seed 12",
+      "Saint Louis": "East - Seed 13",
+      "Belmont": "East - Seed 11",
+      "Yale": "East - Seed 14",
+      "Minnesota": "East - Seed 10",
+      "Bradley": "East - Seed 15",
+      "Iona": "Midwest - Seed 16",
+      "Washington": "Midwest - Seed 9",
+      "New Mexico State": "Midwest - Seed 12",
+      "Northeastern": "Midwest - Seed 13",
+      "Ohio State": "Midwest - Seed 11",
+      "Georgia State": "Midwest - Seed 14",
+      "Seton Hall": "Midwest - Seed 10",
+      "Abilene Christian": "Midwest - Seed 15"
+    },
+    "key": "m_g43_c17459",
+    "min": 149,
+    "max": 361,
+    "avg": 245.61416666666668,
+    "cnt": 8400
+  },
+  {
+    "picks": {
+      "Duke": "Winner",
+      "Virginia": "Final 1",
+      "Gonzaga": "West - Four",
+      "North Carolina": "Midwest - Four",
+      "Tennessee": "South - Elite - B",
+      "Michigan": "West - Elite - B",
+      "Michigan State": "East - Elite - B",
+      "Kentucky": "Midwest - Elite - B",
+      "Kansas State": "South - Sweet - DA",
+      "Purdue": "South - Sweet - EB",
+      "Florida State": "West - Sweet - DA",
+      "Texas Tech": "West - Sweet - EB",
+      "Virginia Tech": "East - Sweet - DA",
+      "Louisiana State": "East - Sweet - EB",
+      "Auburn": "Midwest - Sweet - DA",
+      "Houston": "Midwest - Sweet - EB",
+      "Oklahoma": "South - Round 2 - HCA",
+      "Oregon": "South - Round 2 - IDA",
+      "Villanova": "South - Round 2 - KEB",
+      "Cincinnati": "South - Round 2 - MFB",
+      "Syracuse": "West - Round 2 - HCA",
+      "Marquette": "West - Round 2 - IDA",
+      "Buffalo": "West - Round 2 - KEB",
+      "Nevada": "West - Round 2 - MFB",
+      "Central Florida": "East - Round 2 - HCA",
+      "Mississippi State": "East - Round 2 - IDA",
+      "Maryland": "East - Round 2 - KEB",
+      "Louisville": "East - Round 2 - MFB",
+      "Utah State": "Midwest - Round 2 - HCA",
+      "Kansas": "Midwest - Round 2 - JDA",
+      "Iowa State": "Midwest - Round 2 - KEB",
+      "Wofford": "Midwest - Round 2 - MFB",
+      "Gardner-Webb": "South - Seed 16",
+      "Mississippi": "South - Seed 8",
+      "Wisconsin": "South - Seed 5",
+      "UC-Irvine": "South - Seed 13",
+      "Saint Mary's (CA)": "South - Seed 11",
+      "Old Dominion": "South - Seed 14",
+      "Iowa": "South - Seed 10",
+      "Colgate": "South - Seed 15",
+      "Fairleigh Dickinson": "West - Seed 16",
+      "Baylor": "West - Seed 9",
+      "Murray State": "West - Seed 12",
+      "Vermont": "West - Seed 13",
+      "Arizona State": "West - Seed 11",
+      "Northern Kentucky": "West - Seed 14",
+      "Florida": "West - Seed 10",
+      "Montana": "West - Seed 15",
+      "North Dakota State": "East - Seed 16",
+      "Virginia Commonwealth": "East - Seed 8",
+      "Liberty": "East - Seed 12",
+      "Saint Louis": "East - Seed 13",
+      "Belmont": "East - Seed 11",
+      "Yale": "East - Seed 14",
+      "Minnesota": "East - Seed 10",
+      "Bradley": "East - Seed 15",
+      "Iona": "Midwest - Seed 16",
+      "Washington": "Midwest - Seed 9",
+      "New Mexico State": "Midwest - Seed 12",
+      "Northeastern": "Midwest - Seed 13",
+      "Ohio State": "Midwest - Seed 11",
+      "Georgia State": "Midwest - Seed 14",
+      "Seton Hall": "Midwest - Seed 10",
+      "Abilene Christian": "Midwest - Seed 15"
+    },
+    "key": "m_g9_c3997",
+    "min": 138,
+    "max": 369,
+    "avg": 245.59666666666666,
+    "cnt": 49200
+  },
+  {
+    "picks": {
+      "Duke": "Winner",
+      "Virginia": "Final 1",
+      "Gonzaga": "West - Four",
+      "North Carolina": "Midwest - Four",
+      "Tennessee": "South - Elite - B",
+      "Michigan": "West - Elite - B",
+      "Michigan State": "East - Elite - B",
+      "Kentucky": "Midwest - Elite - B",
+      "Kansas State": "South - Sweet - DA",
+      "Purdue": "South - Sweet - EB",
+      "Florida State": "West - Sweet - DA",
+      "Texas Tech": "West - Sweet - EB",
+      "Virginia Tech": "East - Sweet - DA",
+      "Louisiana State": "East - Sweet - EB",
+      "Auburn": "Midwest - Sweet - DA",
+      "Houston": "Midwest - Sweet - EB",
+      "Oklahoma": "South - Round 2 - HCA",
+      "Oregon": "South - Round 2 - IDA",
+      "Villanova": "South - Round 2 - KEB",
+      "Cincinnati": "South - Round 2 - MFB",
+      "Syracuse": "West - Round 2 - HCA",
+      "Marquette": "West - Round 2 - IDA",
+      "Buffalo": "West - Round 2 - KEB",
+      "Nevada": "West - Round 2 - MFB",
+      "Central Florida": "East - Round 2 - HCA",
+      "Mississippi State": "East - Round 2 - IDA",
+      "Maryland": "East - Round 2 - KEB",
+      "Louisville": "East - Round 2 - MFB",
+      "Utah State": "Midwest - Round 2 - HCA",
+      "Kansas": "Midwest - Round 2 - JDA",
+      "Iowa State": "Midwest - Round 2 - KEB",
+      "Wofford": "Midwest - Round 2 - MFB",
+      "Gardner-Webb": "South - Seed 16",
+      "Mississippi": "South - Seed 8",
+      "Wisconsin": "South - Seed 5",
+      "UC-Irvine": "South - Seed 13",
+      "Saint Mary's (CA)": "South - Seed 11",
+      "Old Dominion": "South - Seed 14",
+      "Iowa": "South - Seed 10",
+      "Colgate": "South - Seed 15",
+      "Fairleigh Dickinson": "West - Seed 16",
+      "Baylor": "West - Seed 9",
+      "Murray State": "West - Seed 12",
+      "Vermont": "West - Seed 13",
+      "Arizona State": "West - Seed 11",
+      "Northern Kentucky": "West - Seed 14",
+      "Florida": "West - Seed 10",
+      "Montana": "West - Seed 15",
+      "North Dakota State": "East - Seed 16",
+      "Virginia Commonwealth": "East - Seed 8",
+      "Liberty": "East - Seed 12",
+      "Saint Louis": "East - Seed 13",
+      "Belmont": "East - Seed 11",
+      "Yale": "East - Seed 14",
+      "Minnesota": "East - Seed 10",
+      "Bradley": "East - Seed 15",
+      "Iona": "Midwest - Seed 16",
+      "Washington": "Midwest - Seed 9",
+      "New Mexico State": "Midwest - Seed 12",
+      "Northeastern": "Midwest - Seed 13",
+      "Ohio State": "Midwest - Seed 11",
+      "Georgia State": "Midwest - Seed 14",
+      "Seton Hall": "Midwest - Seed 10",
+      "Abilene Christian": "Midwest - Seed 15"
+    },
+    "key": "m_g25_c10399",
+    "min": 138,
+    "max": 364,
+    "avg": 245.5926,
+    "cnt": 30000
+  },
+  {
+    "picks": {
+      "Duke": "Winner",
+      "Virginia": "Final 1",
+      "Gonzaga": "West - Four",
+      "North Carolina": "Midwest - Four",
+      "Tennessee": "South - Elite - B",
+      "Michigan": "West - Elite - B",
+      "Michigan State": "East - Elite - B",
+      "Kentucky": "Midwest - Elite - B",
+      "Kansas State": "South - Sweet - DA",
+      "Purdue": "South - Sweet - EB",
+      "Florida State": "West - Sweet - DA",
+      "Texas Tech": "West - Sweet - EB",
+      "Virginia Tech": "East - Sweet - DA",
+      "Louisiana State": "East - Sweet - EB",
+      "Auburn": "Midwest - Sweet - DA",
+      "Houston": "Midwest - Sweet - EB",
+      "Oklahoma": "South - Round 2 - HCA",
+      "Oregon": "South - Round 2 - IDA",
+      "Villanova": "South - Round 2 - KEB",
+      "Cincinnati": "South - Round 2 - MFB",
+      "Syracuse": "West - Round 2 - HCA",
+      "Marquette": "West - Round 2 - IDA",
+      "Buffalo": "West - Round 2 - KEB",
+      "Nevada": "West - Round 2 - MFB",
+      "Central Florida": "East - Round 2 - HCA",
+      "Mississippi State": "East - Round 2 - IDA",
+      "Maryland": "East - Round 2 - KEB",
+      "Louisville": "East - Round 2 - MFB",
+      "Utah State": "Midwest - Round 2 - HCA",
+      "Kansas": "Midwest - Round 2 - JDA",
+      "Iowa State": "Midwest - Round 2 - KEB",
+      "Wofford": "Midwest - Round 2 - MFB",
+      "Gardner-Webb": "South - Seed 16",
+      "Mississippi": "South - Seed 8",
+      "Wisconsin": "South - Seed 5",
+      "UC-Irvine": "South - Seed 13",
+      "Saint Mary's (CA)": "South - Seed 11",
+      "Old Dominion": "South - Seed 14",
+      "Iowa": "South - Seed 10",
+      "Colgate": "South - Seed 15",
+      "Fairleigh Dickinson": "West - Seed 16",
+      "Baylor": "West - Seed 9",
+      "Murray State": "West - Seed 12",
+      "Vermont": "West - Seed 13",
+      "Arizona State": "West - Seed 11",
+      "Northern Kentucky": "West - Seed 14",
+      "Florida": "West - Seed 10",
+      "Montana": "West - Seed 15",
+      "North Carolina Central": "East - Seed 16",
+      "Virginia Commonwealth": "East - Seed 8",
+      "Liberty": "East - Seed 12",
+      "Saint Louis": "East - Seed 13",
+      "Belmont": "East - Seed 11",
+      "Yale": "East - Seed 14",
+      "Minnesota": "East - Seed 10",
+      "Bradley": "East - Seed 15",
+      "Iona": "Midwest - Seed 16",
+      "Washington": "Midwest - Seed 9",
+      "New Mexico State": "Midwest - Seed 12",
+      "Northeastern": "Midwest - Seed 13",
+      "Ohio State": "Midwest - Seed 11",
+      "Georgia State": "Midwest - Seed 14",
+      "Seton Hall": "Midwest - Seed 10",
+      "Abilene Christian": "Midwest - Seed 15"
+    },
+    "key": "m_g17_c7028",
+    "min": 138,
+    "max": 369,
+    "avg": 245.5841414141414,
+    "cnt": 39600
+  },
+  {
+    "picks": {
+      "Duke": "Winner",
+      "Virginia": "Final 1",
+      "Gonzaga": "West - Four",
+      "North Carolina": "Midwest - Four",
+      "Tennessee": "South - Elite - B",
+      "Michigan": "West - Elite - B",
+      "Michigan State": "East - Elite - B",
+      "Kentucky": "Midwest - Elite - B",
+      "Kansas State": "South - Sweet - DA",
+      "Purdue": "South - Sweet - EB",
+      "Florida State": "West - Sweet - DA",
+      "Texas Tech": "West - Sweet - EB",
+      "Virginia Tech": "East - Sweet - DA",
+      "Louisiana State": "East - Sweet - EB",
+      "Auburn": "Midwest - Sweet - DA",
+      "Houston": "Midwest - Sweet - EB",
+      "Oklahoma": "South - Round 2 - HCA",
+      "Oregon": "South - Round 2 - IDA",
+      "Villanova": "South - Round 2 - KEB",
+      "Cincinnati": "South - Round 2 - MFB",
+      "Syracuse": "West - Round 2 - HCA",
+      "Marquette": "West - Round 2 - IDA",
+      "Buffalo": "West - Round 2 - KEB",
+      "Nevada": "West - Round 2 - MFB",
+      "Central Florida": "East - Round 2 - HCA",
+      "Mississippi State": "East - Round 2 - IDA",
+      "Maryland": "East - Round 2 - KEB",
+      "Louisville": "East - Round 2 - MFB",
+      "Utah State": "Midwest - Round 2 - HCA",
+      "Kansas": "Midwest - Round 2 - JDA",
+      "Iowa State": "Midwest - Round 2 - KEB",
+      "Wofford": "Midwest - Round 2 - MFB",
+      "Gardner-Webb": "South - Seed 16",
+      "Mississippi": "South - Seed 8",
+      "Wisconsin": "South - Seed 5",
+      "UC-Irvine": "South - Seed 13",
+      "Saint Mary's (CA)": "South - Seed 11",
+      "Old Dominion": "South - Seed 14",
+      "Iowa": "South - Seed 10",
+      "Colgate": "South - Seed 15",
+      "Fairleigh Dickinson": "West - Seed 16",
+      "Baylor": "West - Seed 9",
+      "Murray State": "West - Seed 12",
+      "Vermont": "West - Seed 13",
+      "Arizona State": "West - Seed 11",
+      "Northern Kentucky": "West - Seed 14",
+      "Florida": "West - Seed 10",
+      "Montana": "West - Seed 15",
+      "North Dakota State": "East - Seed 16",
+      "Virginia Commonwealth": "East - Seed 8",
+      "Liberty": "East - Seed 12",
+      "Saint Louis": "East - Seed 13",
+      "Belmont": "East - Seed 11",
+      "Yale": "East - Seed 14",
+      "Minnesota": "East - Seed 10",
+      "Bradley": "East - Seed 15",
+      "Iona": "Midwest - Seed 16",
+      "Washington": "Midwest - Seed 9",
+      "New Mexico State": "Midwest - Seed 12",
+      "Northeastern": "Midwest - Seed 13",
+      "Ohio State": "Midwest - Seed 11",
+      "Georgia State": "Midwest - Seed 14",
+      "Seton Hall": "Midwest - Seed 10",
+      "Abilene Christian": "Midwest - Seed 15"
+    },
+    "key": "m_g15_c6365",
+    "min": 138,
+    "max": 369,
+    "avg": 245.5835238095238,
+    "cnt": 42000
+  },
+  {
+    "picks": {
+      "Duke": "Winner",
+      "Virginia": "Final 1",
+      "Gonzaga": "West - Four",
+      "North Carolina": "Midwest - Four",
+      "Tennessee": "South - Elite - B",
+      "Michigan": "West - Elite - B",
+      "Michigan State": "East - Elite - B",
+      "Kentucky": "Midwest - Elite - B",
+      "Kansas State": "South - Sweet - DA",
+      "Purdue": "South - Sweet - EB",
+      "Florida State": "West - Sweet - DA",
+      "Texas Tech": "West - Sweet - EB",
+      "Virginia Tech": "East - Sweet - DA",
+      "Louisiana State": "East - Sweet - EB",
+      "Auburn": "Midwest - Sweet - DA",
+      "Houston": "Midwest - Sweet - EB",
+      "Oklahoma": "South - Round 2 - HCA",
+      "Oregon": "South - Round 2 - IDA",
+      "Villanova": "South - Round 2 - KEB",
+      "Cincinnati": "South - Round 2 - MFB",
+      "Syracuse": "West - Round 2 - HCA",
+      "Marquette": "West - Round 2 - IDA",
+      "Buffalo": "West - Round 2 - KEB",
+      "Nevada": "West - Round 2 - MFB",
+      "Central Florida": "East - Round 2 - HCA",
+      "Mississippi State": "East - Round 2 - IDA",
+      "Maryland": "East - Round 2 - KEB",
+      "Louisville": "East - Round 2 - MFB",
+      "Utah State": "Midwest - Round 2 - HCA",
+      "Kansas": "Midwest - Round 2 - JDA",
+      "Iowa State": "Midwest - Round 2 - KEB",
+      "Wofford": "Midwest - Round 2 - MFB",
+      "Gardner-Webb": "South - Seed 16",
+      "Mississippi": "South - Seed 8",
+      "Wisconsin": "South - Seed 5",
+      "UC-Irvine": "South - Seed 13",
+      "Saint Mary's (CA)": "South - Seed 11",
+      "Old Dominion": "South - Seed 14",
+      "Iowa": "South - Seed 10",
+      "Colgate": "South - Seed 15",
+      "Fairleigh Dickinson": "West - Seed 16",
+      "Baylor": "West - Seed 9",
+      "Murray State": "West - Seed 12",
+      "Vermont": "West - Seed 13",
+      "Arizona State": "West - Seed 11",
+      "Northern Kentucky": "West - Seed 14",
+      "Florida": "West - Seed 10",
+      "Montana": "West - Seed 15",
+      "North Dakota State": "East - Seed 16",
+      "Virginia Commonwealth": "East - Seed 8",
+      "Liberty": "East - Seed 12",
+      "Saint Louis": "East - Seed 13",
+      "Belmont": "East - Seed 11",
+      "Yale": "East - Seed 14",
+      "Minnesota": "East - Seed 10",
+      "Bradley": "East - Seed 15",
+      "Iona": "Midwest - Seed 16",
+      "Washington": "Midwest - Seed 9",
+      "New Mexico State": "Midwest - Seed 12",
+      "Northeastern": "Midwest - Seed 13",
+      "Ohio State": "Midwest - Seed 11",
+      "Georgia State": "Midwest - Seed 14",
+      "Seton Hall": "Midwest - Seed 10",
+      "Abilene Christian": "Midwest - Seed 15"
+    },
+    "key": "m_g14_c5948",
+    "min": 138,
+    "max": 369,
+    "avg": 245.58226851851853,
+    "cnt": 43200
+  },
+  {
+    "picks": {
+      "Duke": "Winner",
+      "Virginia": "Final 1",
+      "Gonzaga": "West - Four",
+      "North Carolina": "Midwest - Four",
+      "Tennessee": "South - Elite - B",
+      "Michigan": "West - Elite - B",
+      "Michigan State": "East - Elite - B",
+      "Kentucky": "Midwest - Elite - B",
+      "Kansas State": "South - Sweet - DA",
+      "Purdue": "South - Sweet - EB",
+      "Florida State": "West - Sweet - DA",
+      "Texas Tech": "West - Sweet - EB",
+      "Virginia Tech": "East - Sweet - DA",
+      "Louisiana State": "East - Sweet - EB",
+      "Auburn": "Midwest - Sweet - DA",
+      "Houston": "Midwest - Sweet - EB",
+      "Oklahoma": "South - Round 2 - HCA",
+      "Oregon": "South - Round 2 - IDA",
+      "Villanova": "South - Round 2 - KEB",
+      "Cincinnati": "South - Round 2 - MFB",
+      "Syracuse": "West - Round 2 - HCA",
+      "Marquette": "West - Round 2 - IDA",
+      "Buffalo": "West - Round 2 - KEB",
+      "Nevada": "West - Round 2 - MFB",
+      "Virginia Commonwealth": "East - Round 2 - HCA",
+      "Mississippi State": "East - Round 2 - IDA",
+      "Maryland": "East - Round 2 - KEB",
+      "Louisville": "East - Round 2 - MFB",
+      "Washington": "Midwest - Round 2 - HCA",
+      "Kansas": "Midwest - Round 2 - JDA",
+      "Iowa State": "Midwest - Round 2 - KEB",
+      "Wofford": "Midwest - Round 2 - MFB",
+      "Gardner-Webb": "South - Seed 16",
+      "Mississippi": "South - Seed 8",
+      "Wisconsin": "South - Seed 5",
+      "UC-Irvine": "South - Seed 13",
+      "Saint Mary's (CA)": "South - Seed 11",
+      "Old Dominion": "South - Seed 14",
+      "Iowa": "South - Seed 10",
+      "Colgate": "South - Seed 15",
+      "Fairleigh Dickinson": "West - Seed 16",
+      "Baylor": "West - Seed 9",
+      "Murray State": "West - Seed 12",
+      "Vermont": "West - Seed 13",
+      "Arizona State": "West - Seed 11",
+      "Northern Kentucky": "West - Seed 14",
+      "Florida": "West - Seed 10",
+      "Montana": "West - Seed 15",
+      "North Dakota State": "East - Seed 16",
+      "Central Florida": "East - Seed 9",
+      "Liberty": "East - Seed 12",
+      "Saint Louis": "East - Seed 13",
+      "Belmont": "East - Seed 11",
+      "Yale": "East - Seed 14",
+      "Minnesota": "East - Seed 10",
+      "Bradley": "East - Seed 15",
+      "Iona": "Midwest - Seed 16",
+      "Utah State": "Midwest - Seed 8",
+      "New Mexico State": "Midwest - Seed 12",
+      "Northeastern": "Midwest - Seed 13",
+      "Ohio State": "Midwest - Seed 11",
+      "Georgia State": "Midwest - Seed 14",
+      "Seton Hall": "Midwest - Seed 10",
+      "Abilene Christian": "Midwest - Seed 15"
+    },
+    "key": "charlie",
+    "min": 135,
+    "max": 371,
+    "avg": 245.57103333333333,
+    "cnt": 60000
+  },
+  {
+    "picks": {
+      "Duke": "Winner",
+      "Virginia": "Final 1",
+      "Gonzaga": "West - Four",
+      "North Carolina": "Midwest - Four",
+      "Tennessee": "South - Elite - B",
+      "Michigan": "West - Elite - B",
+      "Michigan State": "East - Elite - B",
+      "Kentucky": "Midwest - Elite - B",
+      "Oregon": "South - Sweet - DA",
+      "Purdue": "South - Sweet - EB",
+      "Florida State": "West - Sweet - DA",
+      "Texas Tech": "West - Sweet - EB",
+      "Virginia Tech": "East - Sweet - DA",
+      "Louisiana State": "East - Sweet - EB",
+      "Auburn": "Midwest - Sweet - DA",
+      "Houston": "Midwest - Sweet - EB",
+      "Oklahoma": "South - Round 2 - HCA",
+      "Kansas State": "South - Round 2 - JDA",
+      "Villanova": "South - Round 2 - KEB",
+      "Cincinnati": "South - Round 2 - MFB",
+      "Syracuse": "West - Round 2 - HCA",
+      "Marquette": "West - Round 2 - IDA",
+      "Buffalo": "West - Round 2 - KEB",
+      "Nevada": "West - Round 2 - MFB",
+      "Central Florida": "East - Round 2 - HCA",
+      "Mississippi State": "East - Round 2 - IDA",
+      "Maryland": "East - Round 2 - KEB",
+      "Louisville": "East - Round 2 - MFB",
+      "Utah State": "Midwest - Round 2 - HCA",
+      "Kansas": "Midwest - Round 2 - JDA",
+      "Iowa State": "Midwest - Round 2 - KEB",
+      "Wofford": "Midwest - Round 2 - MFB",
+      "Gardner-Webb": "South - Seed 16",
+      "Mississippi": "South - Seed 8",
+      "Wisconsin": "South - Seed 5",
+      "UC-Irvine": "South - Seed 13",
+      "Saint Mary's (CA)": "South - Seed 11",
+      "Old Dominion": "South - Seed 14",
+      "Iowa": "South - Seed 10",
+      "Colgate": "South - Seed 15",
+      "Fairleigh Dickinson": "West - Seed 16",
+      "Baylor": "West - Seed 9",
+      "Murray State": "West - Seed 12",
+      "Vermont": "West - Seed 13",
+      "Arizona State": "West - Seed 11",
+      "Northern Kentucky": "West - Seed 14",
+      "Florida": "West - Seed 10",
+      "Montana": "West - Seed 15",
+      "North Dakota State": "East - Seed 16",
+      "Virginia Commonwealth": "East - Seed 8",
+      "Liberty": "East - Seed 12",
+      "Saint Louis": "East - Seed 13",
+      "Belmont": "East - Seed 11",
+      "Yale": "East - Seed 14",
+      "Minnesota": "East - Seed 10",
+      "Bradley": "East - Seed 15",
+      "Iona": "Midwest - Seed 16",
+      "Washington": "Midwest - Seed 9",
+      "New Mexico State": "Midwest - Seed 12",
+      "Northeastern": "Midwest - Seed 13",
+      "Ohio State": "Midwest - Seed 11",
+      "Georgia State": "Midwest - Seed 14",
+      "Seton Hall": "Midwest - Seed 10",
+      "Abilene Christian": "Midwest - Seed 15"
+    },
+    "key": "m_g15_c6216",
+    "min": 138,
+    "max": 378,
+    "avg": 245.5624761904762,
+    "cnt": 42000
+  },
+  {
+    "picks": {
+      "Duke": "Winner",
+      "Virginia": "Final 1",
+      "Gonzaga": "West - Four",
+      "North Carolina": "Midwest - Four",
+      "Tennessee": "South - Elite - B",
+      "Michigan": "West - Elite - B",
+      "Michigan State": "East - Elite - B",
+      "Kentucky": "Midwest - Elite - B",
+      "Kansas State": "South - Sweet - DA",
+      "Villanova": "South - Sweet - EB",
+      "Florida State": "West - Sweet - DA",
+      "Texas Tech": "West - Sweet - EB",
+      "Virginia Tech": "East - Sweet - DA",
+      "Louisiana State": "East - Sweet - EB",
+      "Auburn": "Midwest - Sweet - DA",
+      "Iowa State": "Midwest - Sweet - EB",
+      "Oklahoma": "South - Round 2 - HCA",
+      "Oregon": "South - Round 2 - IDA",
+      "Purdue": "South - Round 2 - LEB",
+      "Cincinnati": "South - Round 2 - MFB",
+      "Syracuse": "West - Round 2 - HCA",
+      "Marquette": "West - Round 2 - IDA",
+      "Buffalo": "West - Round 2 - KEB",
+      "Nevada": "West - Round 2 - MFB",
+      "Virginia Commonwealth": "East - Round 2 - HCA",
+      "Mississippi State": "East - Round 2 - IDA",
+      "Maryland": "East - Round 2 - KEB",
+      "Louisville": "East - Round 2 - MFB",
+      "Washington": "Midwest - Round 2 - HCA",
+      "Kansas": "Midwest - Round 2 - JDA",
+      "Houston": "Midwest - Round 2 - LEB",
+      "Wofford": "Midwest - Round 2 - MFB",
+      "Gardner-Webb": "South - Seed 16",
+      "Mississippi": "South - Seed 8",
+      "Wisconsin": "South - Seed 5",
+      "UC-Irvine": "South - Seed 13",
+      "Saint Mary's (CA)": "South - Seed 11",
+      "Old Dominion": "South - Seed 14",
+      "Iowa": "South - Seed 10",
+      "Colgate": "South - Seed 15",
+      "Fairleigh Dickinson": "West - Seed 16",
+      "Baylor": "West - Seed 9",
+      "Murray State": "West - Seed 12",
+      "Vermont": "West - Seed 13",
+      "Arizona State": "West - Seed 11",
+      "Northern Kentucky": "West - Seed 14",
+      "Florida": "West - Seed 10",
+      "Montana": "West - Seed 15",
+      "North Dakota State": "East - Seed 16",
+      "Central Florida": "East - Seed 9",
+      "Liberty": "East - Seed 12",
+      "Saint Louis": "East - Seed 13",
+      "Belmont": "East - Seed 11",
+      "Yale": "East - Seed 14",
+      "Minnesota": "East - Seed 10",
+      "Bradley": "East - Seed 15",
+      "Iona": "Midwest - Seed 16",
+      "Utah State": "Midwest - Seed 8",
+      "New Mexico State": "Midwest - Seed 12",
+      "Northeastern": "Midwest - Seed 13",
+      "Ohio State": "Midwest - Seed 11",
+      "Georgia State": "Midwest - Seed 14",
+      "Seton Hall": "Midwest - Seed 10",
+      "Abilene Christian": "Midwest - Seed 15"
+    },
+    "key": "m_g33_c13502",
+    "min": 125,
+    "max": 366,
+    "avg": 245.5600980392157,
+    "cnt": 20400
+  },
+  {
+    "picks": {
+      "Duke": "Winner",
+      "Virginia": "Final 1",
+      "Gonzaga": "West - Four",
+      "North Carolina": "Midwest - Four",
+      "Tennessee": "South - Elite - B",
+      "Michigan": "West - Elite - B",
+      "Michigan State": "East - Elite - B",
+      "Kentucky": "Midwest - Elite - B",
+      "Kansas State": "South - Sweet - DA",
+      "Purdue": "South - Sweet - EB",
+      "Florida State": "West - Sweet - DA",
+      "Texas Tech": "West - Sweet - EB",
+      "Virginia Tech": "East - Sweet - DA",
+      "Maryland": "East - Sweet - EB",
+      "Auburn": "Midwest - Sweet - DA",
+      "Houston": "Midwest - Sweet - EB",
+      "Oklahoma": "South - Round 2 - HCA",
+      "Oregon": "South - Round 2 - IDA",
+      "Villanova": "South - Round 2 - KEB",
+      "Cincinnati": "South - Round 2 - MFB",
+      "Syracuse": "West - Round 2 - HCA",
+      "Marquette": "West - Round 2 - IDA",
+      "Buffalo": "West - Round 2 - KEB",
+      "Nevada": "West - Round 2 - MFB",
+      "Virginia Commonwealth": "East - Round 2 - HCA",
+      "Mississippi State": "East - Round 2 - IDA",
+      "Louisiana State": "East - Round 2 - LEB",
+      "Louisville": "East - Round 2 - MFB",
+      "Utah State": "Midwest - Round 2 - HCA",
+      "Kansas": "Midwest - Round 2 - JDA",
+      "Iowa State": "Midwest - Round 2 - KEB",
+      "Wofford": "Midwest - Round 2 - MFB",
+      "Gardner-Webb": "South - Seed 16",
+      "Mississippi": "South - Seed 8",
+      "Wisconsin": "South - Seed 5",
+      "UC-Irvine": "South - Seed 13",
+      "Saint Mary's (CA)": "South - Seed 11",
+      "Old Dominion": "South - Seed 14",
+      "Iowa": "South - Seed 10",
+      "Colgate": "South - Seed 15",
+      "Fairleigh Dickinson": "West - Seed 16",
+      "Baylor": "West - Seed 9",
+      "Murray State": "West - Seed 12",
+      "Vermont": "West - Seed 13",
+      "Arizona State": "West - Seed 11",
+      "Northern Kentucky": "West - Seed 14",
+      "Florida": "West - Seed 10",
+      "Montana": "West - Seed 15",
+      "North Dakota State": "East - Seed 16",
+      "Central Florida": "East - Seed 9",
+      "Liberty": "East - Seed 12",
+      "Saint Louis": "East - Seed 13",
+      "Belmont": "East - Seed 11",
+      "Yale": "East - Seed 14",
+      "Minnesota": "East - Seed 10",
+      "Bradley": "East - Seed 15",
+      "Iona": "Midwest - Seed 16",
+      "Washington": "Midwest - Seed 9",
+      "New Mexico State": "Midwest - Seed 12",
+      "Northeastern": "Midwest - Seed 13",
+      "Ohio State": "Midwest - Seed 11",
+      "Georgia State": "Midwest - Seed 14",
+      "Seton Hall": "Midwest - Seed 10",
+      "Abilene Christian": "Midwest - Seed 15"
+    },
+    "key": "m_g10_c4363",
+    "min": 140,
+    "max": 373,
+    "avg": 245.55158333333333,
+    "cnt": 48000
+  }
+]
+{ scores:
+   [ { avg: 245.61416666666668, cnt: 8400 },
+     { avg: 245.59666666666666, cnt: 49200 },
+     { avg: 245.5926, cnt: 30000 },
+     { avg: 245.5841414141414, cnt: 39600 },
+     { avg: 245.5835238095238, cnt: 42000 },
+     { avg: 245.58226851851853, cnt: 43200 },
+     { avg: 245.57103333333333, cnt: 60000 },
+     { avg: 245.5624761904762, cnt: 42000 },
+     { avg: 245.5600980392157, cnt: 20400 },
+     { avg: 245.55158333333333, cnt: 48000 },
+     { avg: 245.54736111111112, cnt: 36000 },
+     { avg: 245.53673076923076, cnt: 46800 },
+     { avg: 245.53352564102565, cnt: 31200 },
+     { avg: 245.53313492063492, cnt: 25200 },
+     { avg: 245.5324537037037, cnt: 21600 },
+     { avg: 245.5225, cnt: 31200 },
+     { avg: 245.51718253968255, cnt: 25200 },
+     { avg: 245.5042361111111, cnt: 57600 },
+     { avg: 245.48477272727274, cnt: 39600 },
+     { avg: 245.4819871794872, cnt: 15600 },
+     { avg: 245.48121794871795, cnt: 46800 },
+     { avg: 245.472297979798, cnt: 39600 },
+     { avg: 245.46271825396826, cnt: 50400 },
+     { avg: 245.46237179487179, cnt: 15600 },
+     { avg: 245.43440972222223, cnt: 57600 },
+     { avg: 245.42213333333333, cnt: 30000 },
+     { avg: 245.41145833333334, cnt: 24000 },
+     { avg: 245.4030172413793, cnt: 34800 },
+     { avg: 245.40295833333334, cnt: 24000 },
+     { avg: 245.40163580246914, cnt: 32400 },
+     { avg: 245.39298913043478, cnt: 55200 },
+     { avg: 245.38930555555555, cnt: 7200 },
+     { avg: 245.3646527777778, cnt: 14400 },
+     { avg: 245.36097222222222, cnt: 7200 },
+     { avg: 245.32401041666665, cnt: 19200 },
+     { avg: 245.3109090909091, cnt: 13200 },
+     { avg: 245.2883125, cnt: 48000 },
+     { avg: 245.28653846153847, cnt: 46800 },
+     { avg: 245.28466666666668, cnt: 18000 },
+     { avg: 245.26285714285714, cnt: 16800 },
+     { avg: 245.26142592592592, cnt: 54000 },
+     { avg: 245.26083333333332, cnt: 7200 },
+     { avg: 245.26083333333332, cnt: 7200 },
+     { avg: 245.25813953488372, cnt: 51600 },
+     { avg: 245.2441875, cnt: 48000 },
+     { avg: 245.2441875, cnt: 48000 },
+     { avg: 245.22403846153847, cnt: 15600 },
+     { avg: 245.22403846153847, cnt: 15600 },
+     { avg: 245.22403846153847, cnt: 15600 },
+     { avg: 245.21803571428572, cnt: 16800 },
+     { avg: 245.209375, cnt: 19200 },
+     { avg: 245.209375, cnt: 19200 },
+     { avg: 245.209375, cnt: 19200 },
+     { avg: 245.19416666666666, cnt: 46800 },
+     { avg: 245.19416666666666, cnt: 46800 },
+     { avg: 245.19384803921568, cnt: 40800 },
+     { avg: 245.19291666666666, cnt: 19200 },
+     { avg: 245.18440476190477, cnt: 42000 },
+     { avg: 245.18407407407406, cnt: 10800 },
+     { avg: 245.18007352941177, cnt: 40800 },
+     { avg: 245.1791414141414, cnt: 39600 },
+     { avg: 245.17876984126985, cnt: 50400 },
+     { avg: 245.17876984126985, cnt: 50400 },
+     { avg: 245.17876984126985, cnt: 50400 },
+     { avg: 245.1778431372549, cnt: 20400 },
+     { avg: 245.1718010752688, cnt: 37200 },
+     { avg: 245.17030701754385, cnt: 45600 },
+     { avg: 245.1652564102564, cnt: 15600 },
+     { avg: 245.16335714285714, cnt: 42000 },
+     { avg: 245.16335714285714, cnt: 42000 },
+     { avg: 245.16281007751937, cnt: 51600 },
+     { avg: 245.16041666666666, cnt: 31200 },
+     { avg: 245.16041666666666, cnt: 31200 },
+     { avg: 245.16037878787878, cnt: 52800 },
+     { avg: 245.16030555555557, cnt: 36000 },
+     { avg: 245.15977642276422, cnt: 49200 },
+     { avg: 245.15862962962962, cnt: 54000 },
+     { avg: 245.15862962962962, cnt: 54000 },
+     { avg: 245.15671985815604, cnt: 56400 },
+     { avg: 245.1559294871795, cnt: 31200 },
+     { avg: 245.15298611111112, cnt: 14400 },
+     { avg: 245.15178333333333, cnt: 60000 },
+     { avg: 245.15178333333333, cnt: 60000 },
+     { avg: 245.15052536231883, cnt: 55200 },
+     { avg: 245.15052536231883, cnt: 55200 },
+     { avg: 245.1497619047619, cnt: 8400 },
+     { avg: 245.1486036036036, cnt: 44400 },
+     { avg: 245.1486036036036, cnt: 44400 },
+     { avg: 245.1486036036036, cnt: 44400 },
+     { avg: 245.1486036036036, cnt: 44400 },
+     { avg: 245.14700520833333, cnt: 38400 },
+     { avg: 245.14008771929824, cnt: 45600 },
+     { avg: 245.13731182795698, cnt: 37200 },
+     { avg: 245.13717391304348, cnt: 27600 },
+     { avg: 245.13618055555557, cnt: 57600 },
+     { avg: 245.13343333333333, cnt: 30000 },
+     { avg: 245.13343333333333, cnt: 30000 },
+     { avg: 245.13273148148147, cnt: 21600 },
+     { avg: 245.1317013888889, cnt: 28800 },
+     { avg: 245.13066666666666, cnt: 12000 },
+     ... 307 more items ],
+  resultsOutput:
+   [ { key: 'alpha', min: 128, max: 369, avg: 238.71668333333332 },
+     { key: 'beta', min: 123, max: 363, avg: 242.79933333333332 },
+     { key: 'charlie', min: 135, max: 371, avg: 245.57103333333333 },
+     { key: 'delta', min: 135, max: 365, avg: 244.79266666666666 },
+     { key: 'favorite', min: 131, max: 367, avg: 244.14806666666667 },
+     { key: 'michael1', min: 126, max: 373, avg: 232.61855 },
+     { key: 'greedy', min: 0, max: 211, avg: 73.33213333333333 } ] }
